@@ -1,4 +1,4 @@
-package org.bhaskarmantralahub;
+package org.bhaskarmantralahub.collections;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -25,9 +25,9 @@ public class CopyOfList {
 //        Exception in thread "main" java.lang.UnsupportedOperationException
 //        at java.base/java.util.ImmutableCollections.uoe(ImmutableCollections.java:142)
 //        at java.base/java.util.ImmutableCollections$AbstractImmutableCollection.add(ImmutableCollections.java:147)
-//        at org.bhaskarmantralahub.CopyOfList.updateList(CopyOfList.java:29)
-//        at org.bhaskarmantralahub.CopyOfList.init(CopyOfList.java:23)
-//        at org.bhaskarmantralahub.CopyOfList.main(CopyOfList.java:9)
+//        at org.bhaskarmantralahub.collections.CopyOfList.updateList(CopyOfList.java:29)
+//        at org.bhaskarmantralahub.collections.CopyOfList.init(CopyOfList.java:23)
+//        at org.bhaskarmantralahub.collections.CopyOfList.main(CopyOfList.java:9)
        updateList(immutableList);
 
         System.out.println(immutableList);

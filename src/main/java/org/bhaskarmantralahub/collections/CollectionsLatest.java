@@ -1,4 +1,4 @@
-package org.bhaskarmantralahub;
+package org.bhaskarmantralahub.collections;
 
 import java.util.List;
 import java.util.Set;
